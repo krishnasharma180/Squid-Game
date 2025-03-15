@@ -38,16 +38,10 @@ A thrilling Python-based adventure game inspired by the **Squid Game** series! C
 
 ---
 
-## 📂 Download & Release
-🎮 The game installer is available in the **Releases** section of this repository.  
-🚀 **[Download Now](https://github.com/your-repo/releases)** and start playing!  
-
----
-
 ## 👏 Credits
 🚀 Developed using **Python & Tkinter**  
 🎬 Inspired by the **Squid Game** series  
-💻 Created with passion by [Your Name]  
+💻 Created with passion by Krishna Sharma  
 
 Enjoy the game and have fun! 🕹️🔥
 
