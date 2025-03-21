@@ -19,7 +19,7 @@ A thrilling Python-based adventure game inspired by the **Squid Game** series! C
 3. Once installed, **launch the game** from the desktop shortcut or Start menu.
 4. Download the installer by clicking the button below:
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/krishnasharma180/Squid-Game/releases/download/v1.0.0/Squid-Game.exe)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/krishnasharma180/Squid-Game/releases/download/v1.0.0/Squid_Game.exe)
 
 ---
 
